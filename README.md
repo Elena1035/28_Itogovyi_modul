@@ -1,5 +1,6 @@
 >## :briefcase: Итоговый проект по автоматизации тестирования SKILLFACTORY QAP-1035
 Тест кейсы находятся тут https://docs.google.com/spreadsheets/d/1_OZHGdic5V9LOWBJMtBD6MTK_wjBK7G1tbjGPybVjRE/edit#gid=0
+
 Баг репорты тут https://docs.google.com/spreadsheets/d/1W4MF99YiLG2x90jC0hO_ci4plQ4Lg5TafVb4gPHbznQ/edit#gid=0
 ### Необходимо протестировать новый интерфейс авторизации в личном кабинете от заказчика Ростелеком.
 
